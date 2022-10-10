@@ -1,4 +1,4 @@
-## Bone-Age-Assessment 
+## Bone-Age-Assessment / Group Skeletal Hand
 ###  ABSTRACT
 - Inspired by Chen et al. (2020)’s incorporation of gender information in bone age assessment (BAA), we searched for other possible factors that influence the outcome of BAA and found ethnicity to be key information in the literature. <br>
 - We examined whether the addition of an ethnicity feature could improve the original model's performance at bone age prediction. <br>
